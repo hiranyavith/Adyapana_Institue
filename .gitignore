@@ -1,0 +1,8 @@
+/build/
+/dist/
+/target/
+/out/
+*.class
+*.log
+.nb-gradle/
+.idea/
