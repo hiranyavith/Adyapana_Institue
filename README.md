@@ -46,5 +46,5 @@ It helps administrators handle student records, courses, fees, attendance, and s
 
 ---
 
-## 📂 Project Structure
+
 
